@@ -1,1 +1,1 @@
-print('please work')
+print('.idea')
